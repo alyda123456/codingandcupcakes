@@ -99,6 +99,8 @@ ul.inline {
 	text-align:center;
 	overflow: auto;
 	clear: both;
+	margin: 0px auto;
+	width: 100%;
 }
 
 ul.inline li{
